@@ -1,16 +1,17 @@
-# app
+# <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" width="40"/> Flutter Unit Converter
 
-A new Flutter project.
+A simple Flutter Unit converter app.
 
-## Getting Started
+## Screens
+- Home screen.
 
-This project is a starting point for a Flutter application.
+![Home screen](https://github.com/zaynOm/flutter-unit_converter/blob/main/images/home_screen.png)
 
-A few resources to get you started if this is your first Flutter project:
+- Conversion screen.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Home screen](https://github.com/zaynOm/flutter-unit_converter/blob/main/images/convertion_screen.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dropdown menu.
+
+
+![Home screen](https://github.com/zaynOm/flutter-unit_converter/blob/main/images/units_dropdown.png)
